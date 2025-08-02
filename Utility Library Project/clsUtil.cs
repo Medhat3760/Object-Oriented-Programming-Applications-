@@ -197,7 +197,6 @@ namespace Utility_Library_Project
 
         }
 
-
         public static void FillArrayWithRandomNumbers(int[] arr, int length, int from, int to)
         {
 
@@ -273,8 +272,6 @@ namespace Utility_Library_Project
             return new string(arrChar);
             
         }
-
-
 
     }
 }

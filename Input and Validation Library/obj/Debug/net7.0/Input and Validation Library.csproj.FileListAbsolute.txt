@@ -1,0 +1,22 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Input and Validation Library.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Input and Validation Library.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Input and Validation Library.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Input and Validation Library.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Input and Validation Library.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Date Library Project.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Utility Library Project.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\String Library Project.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Date Library Project.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\Utility Library Project.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\bin\Debug\net7.0\String Library Project.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.csproj.CopyComplete
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\refint\Input and Validation Library.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\Input and Validation Library.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Input and Validation Library\obj\Debug\net7.0\ref\Input and Validation Library.dll
