@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Bank System\\#03 - Add New Client\\Bank System.csproj",
+      "projectUniqueName": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#03 - Add New Client\\Bank System.csproj",
       "projectName": "Bank System",
-      "projectPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Bank System\\#03 - Add New Client\\Bank System.csproj",
+      "projectPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#03 - Add New Client\\Bank System.csproj",
       "packagesPath": "C:\\Users\\Sigma\\.nuget\\packages\\",
-      "outputPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Bank System\\#03 - Add New Client\\obj\\",
+      "outputPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#03 - Add New Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sigma\\AppData\\Roaming\\NuGet\\NuGet.Config",

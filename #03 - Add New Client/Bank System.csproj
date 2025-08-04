@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <Reference Include="MyLib">
-      <HintPath>..\..\..\..\Introduction_To_Programming_Using_Csharp_Level_2\MyLib\bin\Debug\net6.0\MyLib.dll</HintPath>
+      <HintPath>..\..\..\Introduction_To_Programming_Using_Csharp_Level_2\MyLib\bin\Debug\net6.0\MyLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 
