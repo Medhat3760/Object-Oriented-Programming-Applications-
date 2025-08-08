@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Bank_System</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyLib">
+      <HintPath>..\..\..\Introduction_To_Programming_Using_Csharp_Level_2\MyLib\bin\Debug\net6.0\MyLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
