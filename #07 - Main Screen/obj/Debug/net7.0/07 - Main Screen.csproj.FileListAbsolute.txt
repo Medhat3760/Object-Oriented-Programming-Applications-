@@ -1,0 +1,18 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\bin\Debug\net7.0\07 - Main Screen.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\bin\Debug\net7.0\07 - Main Screen.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\bin\Debug\net7.0\07 - Main Screen.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\bin\Debug\net7.0\07 - Main Screen.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\bin\Debug\net7.0\07 - Main Screen.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\bin\Debug\net7.0\MyLib.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\bin\Debug\net7.0\MyLib.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.csproj.CopyComplete
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\refint\07 - Main Screen.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\07 - Main Screen.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#07 - Main Screen\obj\Debug\net7.0\ref\07 - Main Screen.dll
