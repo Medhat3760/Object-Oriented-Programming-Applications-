@@ -1,0 +1,18 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\bin\Debug\net7.0\Bank System.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\bin\Debug\net7.0\Bank System.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\bin\Debug\net7.0\Bank System.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\bin\Debug\net7.0\Bank System.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\bin\Debug\net7.0\Bank System.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\bin\Debug\net7.0\MyLib.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\bin\Debug\net7.0\MyLib.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.csproj.CopyComplete
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\refint\Bank System.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\Bank System.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#09 - Add New Client Screen\obj\Debug\net7.0\ref\Bank System.dll
