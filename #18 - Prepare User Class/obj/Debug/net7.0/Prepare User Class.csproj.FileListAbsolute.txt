@@ -1,0 +1,18 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\bin\Debug\net7.0\Prepare User Class.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\bin\Debug\net7.0\Prepare User Class.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\bin\Debug\net7.0\Prepare User Class.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\bin\Debug\net7.0\Prepare User Class.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\bin\Debug\net7.0\Prepare User Class.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\bin\Debug\net7.0\MyLib.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\bin\Debug\net7.0\MyLib.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.csproj.CopyComplete
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\refint\Prepare User Class.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\Prepare User Class.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\#18 - Prepare User Class\obj\Debug\net7.0\ref\Prepare User Class.dll

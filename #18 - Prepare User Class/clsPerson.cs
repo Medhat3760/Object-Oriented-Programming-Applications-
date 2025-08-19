@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bank_System
+namespace Prepare_User_Class
 {
     public class clsPerson
     {
@@ -54,7 +54,7 @@ namespace Bank_System
         }
 
         /*
-         * No UI Related code iside object.
+         * No UI Related code inside object.
         public void Print()
         {
 
