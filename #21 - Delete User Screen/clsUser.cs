@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MyLib;
-using static Prepare_User_Class.clsUser;
+using static Bank_System.clsUser;
 
-namespace Prepare_User_Class
+namespace Bank_System
 {
     public class clsUser : clsPerson
     {
@@ -16,7 +16,7 @@ namespace Prepare_User_Class
         private enMode _mode;
         private string _userName;
         private string _password;
-        private int _permission;
+        private int _permissions;
 
         private bool _markedForDelete = false;
 
@@ -73,8 +73,8 @@ namespace Prepare_User_Class
                               + user.Phone + separator
                               + user.UserName + separator
                               + user.Password + separator
-                              + user.Permission.ToString();
-
+                              + user.Permissions.ToString();
+            
             return userRecord;
 
         }
@@ -84,7 +84,6 @@ namespace Prepare_User_Class
 
             if (File.Exists("Users.txt"))
             {
-
 
                 using (StreamWriter myFile = new StreamWriter("Users.txt"))
                 {
@@ -163,9 +162,14 @@ namespace Prepare_User_Class
             FirstName = LastName = Email = Phone = UserName = Password = "";
 
             _mode = enMode.EmptyMode;
-            _permission = 0;
+            _permissions = 0;
             _markedForDelete = false;
 
+        }
+
+        public enum enPermissions {
+            pAll = -1, pShowClientList = 1, pAddNewClient = 2, pDeleteClient = 4,
+            pUpdateClients = 8, pFindClient = 16, pTranactions = 32, pManageUsers = 64
         }
 
         public clsUser(enMode mode, string firstName, string lastName, string email, string phone,
@@ -175,7 +179,7 @@ namespace Prepare_User_Class
             _mode = mode;
             _userName = userName;
             _password = password;
-            _permission = permission;
+            _permissions = permission;
 
         }
 
@@ -200,11 +204,11 @@ namespace Prepare_User_Class
 
         }
 
-        public int Permission
+        public int Permissions
         {
 
-            get { return _permission; }
-            set { _permission = value; }
+            get { return _permissions; }
+            set { _permissions = value; }
 
         }
 
