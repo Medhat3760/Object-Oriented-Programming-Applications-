@@ -45,7 +45,6 @@ namespace Bank_System
             return permissions;
         }
 
-
         private static void _ReadUserInfo(ref clsUser user)
         {
 
@@ -110,8 +109,9 @@ namespace Bank_System
             clsUser.enSaveResults saveResult;
             saveResult = newUser.Save();
 
-            switch(saveResult)
+            switch (saveResult)
             {
+
                 case clsUser.enSaveResults.svSucceded:
                     Console.WriteLine("\nUser Added Successfully :-)");
                     _PrintUser(newUser);
