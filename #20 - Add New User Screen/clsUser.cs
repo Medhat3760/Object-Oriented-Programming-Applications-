@@ -168,6 +168,11 @@ namespace Bank_System
 
         }
 
+        public enum enPermissions {
+            pAll = -1, pShowClientList = 1, pAddNewClient = 2, pDeleteClient = 4,
+            pUpdateClients = 8, pFindClient = 16, pTranactions = 32, pManageUsers = 64
+        }
+
         public clsUser(enMode mode, string firstName, string lastName, string email, string phone,
              string userName, string password, int permission) : base(firstName, lastName, email, phone)
         {
