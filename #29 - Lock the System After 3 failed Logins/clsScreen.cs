@@ -46,10 +46,5 @@ namespace Bank_System
 
         }
 
-        protected static void _PrintLoggedInUserAndDate()
-        {
-
-        }
-
     }
 }
