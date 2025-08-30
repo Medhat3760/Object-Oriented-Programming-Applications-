@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\bin\Debug\net7.0\Abstract Class Practical Example.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\bin\Debug\net7.0\Abstract Class Practical Example.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\bin\Debug\net7.0\Abstract Class Practical Example.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\bin\Debug\net7.0\Abstract Class Practical Example.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\bin\Debug\net7.0\Abstract Class Practical Example.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\refint\Abstract Class Practical Example.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\Abstract Class Practical Example.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Abstract Class Practical Example\obj\Debug\net7.0\ref\Abstract Class Practical Example.dll
