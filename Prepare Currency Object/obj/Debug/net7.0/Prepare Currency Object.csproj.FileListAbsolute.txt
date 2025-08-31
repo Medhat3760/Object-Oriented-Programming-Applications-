@@ -1,0 +1,18 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\bin\Debug\net7.0\Prepare Currency Object.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\bin\Debug\net7.0\Prepare Currency Object.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\bin\Debug\net7.0\Prepare Currency Object.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\bin\Debug\net7.0\Prepare Currency Object.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\bin\Debug\net7.0\Prepare Currency Object.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\bin\Debug\net7.0\MyLib.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\bin\Debug\net7.0\MyLib.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.csproj.CopyComplete
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\refint\Prepare Currency Object.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\Prepare Currency Object.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Prepare Currency Object\obj\Debug\net7.0\ref\Prepare Currency Object.dll

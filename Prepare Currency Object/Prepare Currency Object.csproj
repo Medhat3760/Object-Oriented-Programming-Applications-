@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Prepare_Currency_Object</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyLib">
+      <HintPath>..\..\..\MyLib\bin\Debug\net6.0\MyLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
