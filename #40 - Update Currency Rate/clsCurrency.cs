@@ -156,14 +156,12 @@ namespace Bank_System
             get { return _currencyName; }
         }
 
-        public bool UpdateRate(double newRate)
+        public void UpdateRate(double newRate)
         {
 
             _Rate = newRate;
 
             _Update();
-
-            return true;
 
         }
 

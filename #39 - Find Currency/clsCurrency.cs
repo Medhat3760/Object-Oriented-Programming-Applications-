@@ -76,7 +76,7 @@ namespace Bank_System
             if (File.Exists("Currencies.txt"))
             {
 
-                using (StreamWriter myFile = new StreamWriter("Currencies.txt", append: true))
+                using (StreamWriter myFile = new StreamWriter("Currencies.txt"))
                 {
 
                     foreach(clsCurrency currency in lCurrencies)
