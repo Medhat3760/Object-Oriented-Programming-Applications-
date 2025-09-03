@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\bin\Debug\net7.0\Template Functions.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\bin\Debug\net7.0\Template Functions.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\bin\Debug\net7.0\Template Functions.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\bin\Debug\net7.0\Template Functions.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\bin\Debug\net7.0\Template Functions.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\refint\Template Functions.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\Template Functions.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Functions\obj\Debug\net7.0\ref\Template Functions.dll
