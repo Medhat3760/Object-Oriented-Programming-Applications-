@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\bin\Debug\net7.0\Template Classes.exe
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\bin\Debug\net7.0\Template Classes.deps.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\bin\Debug\net7.0\Template Classes.runtimeconfig.json
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\bin\Debug\net7.0\Template Classes.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\bin\Debug\net7.0\Template Classes.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\refint\Template Classes.dll
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.pdb
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\Template Classes.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Object-Oriented-Programming-Applications-\Template Classes\obj\Debug\net7.0\ref\Template Classes.dll
