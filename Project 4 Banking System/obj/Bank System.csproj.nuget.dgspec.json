@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#41 - Currency Calculator Screen\\Bank System.csproj": {}
+    "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Project 4 Banking System\\Bank System.csproj": {}
   },
   "projects": {
-    "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#41 - Currency Calculator Screen\\Bank System.csproj": {
+    "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Project 4 Banking System\\Bank System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#41 - Currency Calculator Screen\\Bank System.csproj",
+        "projectUniqueName": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Project 4 Banking System\\Bank System.csproj",
         "projectName": "Bank System",
-        "projectPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#41 - Currency Calculator Screen\\Bank System.csproj",
+        "projectPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Project 4 Banking System\\Bank System.csproj",
         "packagesPath": "C:\\Users\\Sigma\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\#41 - Currency Calculator Screen\\obj\\",
+        "outputPath": "D:\\Programs Files\\Github Repos\\Object-Oriented-Programming-Applications-\\Project 4 Banking System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sigma\\AppData\\Roaming\\NuGet\\NuGet.Config",
